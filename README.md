@@ -1,7 +1,7 @@
 # sample
 
-githubの動作確認
+github dev test
 
 
-##メンバー
+##member
 *shiga
